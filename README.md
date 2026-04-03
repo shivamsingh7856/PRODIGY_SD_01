@@ -17,6 +17,7 @@ The objective of this project is to build a temperature conversion tool that hel
 
 ## Technologies Used
 - Java
+- OOPs Concept
 
 ## Conclusion
 This project helped in understanding GUI development, user interaction, and temperature conversion logic in Java.
