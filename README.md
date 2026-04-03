@@ -1,2 +1,2 @@
 # PRODIGY_SD_01
-Java GUI Temperature Converter that converts Celsius, Fahrenheit, and Kelvin with user input.
+A Java program that converts temperatures between Celsius, Fahrenheit, and Kelvin based on user input. Includes temperature conversion formulas and user interaction.
